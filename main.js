@@ -45,8 +45,6 @@ controls.enableZoom = false
 controls.autoRotate = true
 controls.autoRotateSpeed = 5
 
-
-
 //Resize
 window.addEventListener("resize", () => {
   //Update Sizes
@@ -83,7 +81,7 @@ window.addEventListener("mousemove", (e) => {
       Math.round((e.pageY / sizes.height) * 255),
       150,
     ]
-    //Let's Animate
+    //Animate 
     let newColor = new THREE.Color(`rgb(${rgb.join(",")})`)
     gsap.to(mesh.material.color, {
       r:newColor.r,
@@ -92,5 +90,3 @@ window.addEventListener("mousemove", (e) => {
     })
   }
 });
-
-
