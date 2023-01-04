@@ -29,6 +29,8 @@ This was practice for my personal website, site up until march 23rd.
       <th>create new folder</th>
     </tr>
    </table>
+   
+   **Add $ if needed in front!**
 
 2. Clone your forked repository to your computer:
 
@@ -39,7 +41,7 @@ This was practice for my personal website, site up until march 23rd.
     ```bash
     git clone https://github.com/<your-github-username>/3d-rgb-sphere.git
     ```
-    **Replace \<your-github-username\> and add $ if needed in front!**
+    **Replace \<your-github-username\!>**
 
 4. Shift to project directory:
 
