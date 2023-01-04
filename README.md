@@ -41,7 +41,7 @@ This was practice for my personal website, site up until march 23rd.
     ```bash
     git clone https://github.com/<your-github-username>/3d-rgb-sphere.git
     ```
-    **Replace \<your-github-username\!>**
+    **Replace \<your-github-username\>!**
 
 4. Shift to project directory:
 
