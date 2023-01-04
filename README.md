@@ -59,5 +59,4 @@ This was practice for my personal website, site up until march 23rd.
     e.g. I used [vite](https://vitejs.dev/guide/) for this project
     
     
-    
-    
+Check out this [video](https://www.youtube.com/watch?v=xJAfLdUgdc4&list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) if you want to learn the basics of three.js!
