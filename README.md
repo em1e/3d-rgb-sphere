@@ -56,7 +56,7 @@ This was practice for my personal website, site up until march 23rd.
     ```
 
 6. Run the folder on a local host.
-    e.g. I used vite for this project, but anything should work
+    e.g. I used vite for this project
     
     
     
