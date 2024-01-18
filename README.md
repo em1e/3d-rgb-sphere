@@ -6,8 +6,6 @@ This was practice for my personal website, site up until march 23rd.
 # 🖊️ For Ray or anyone who wants to play around with three.js 
 
 1. Click on the button "Fork."
-
-   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
    
 2. In terminal cd to the folder you want the clone the be in.
    e.g. some commands that could be useful
